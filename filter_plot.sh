@@ -121,3 +121,7 @@ echo "To undo, run: ./$(basename "$0") undo"
 
 # Remove temp. file for selecting area 
 rm selected_region.txt
+
+# Be Happy! .)
+
+
