@@ -8,7 +8,7 @@ Useful scripts to handle files, plots and data in columns in general.
    
 ### How to use:
 
-- The bash script contains two files: a "reference" and a "modifiable". The data deleted is the one indicated as <DATA2_FILE> (the "modifiable"). The "reference" exists since one might be interested to delete data along some boundary defined by another data or plot;
+- The bash script contains two files entries: a "reference" and a "modifiable". The data deleted is the one indicated as <DATA2_FILE> (the "modifiable"). The "reference" exists since one might be interested to delete data along some boundary defined by another data or plot;
 
 - Define the path-to-file for "reference" and "modifiable" as needed, as well as the x and y coordinates of points to be deleted;
 
