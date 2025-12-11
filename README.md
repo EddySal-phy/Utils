@@ -2,7 +2,7 @@
 Useful scripts to handle files, plots and data in columns in general.
 
 
-## <span style="color: green"> filter_plot.sh </span> filter_plot.sh
+## $$\color{red}filter_plot.sh$$
 
   A simple bash script to delete points in a plot by selecting an area using gnuplot.
    
