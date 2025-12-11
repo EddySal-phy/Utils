@@ -23,4 +23,4 @@ Useful scripts to handle files, plots and data in columns in general.
 
 ## stanza.hpp
 
-  A C++ header that makes it easier to collect data from .txt files. 
+  A C++ header that makes it easier to collect and write data from and to .txt files. 
