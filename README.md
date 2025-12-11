@@ -2,7 +2,7 @@
 Useful scripts to handle files, plots and data in columns in general.
 
 
-## $$\color{red}\bold filter-plot.sh$$
+## filter-plot.sh
 
   A simple bash script to delete points in a plot by selecting an area using gnuplot.
    
@@ -19,3 +19,8 @@ Useful scripts to handle files, plots and data in columns in general.
 - All data of the "modifiable" in the same row as the x and y coordinates in the plot will be deleted.
 
 - You can undo the delete by running the command indicated in terminal (that will appear when points are deleted)    
+
+
+## stanza.hpp
+
+  A C++ header that makes it easier to collect data from .txt files. 
